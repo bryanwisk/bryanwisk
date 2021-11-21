@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bryanwisk
+- 👀 I’m interested in distributed networks
+- 🌱 I’m currently learning golang
+- 💞️ I’m looking to collaborate on arcnet
+- 📫 How to reach me: bryan@arcnet.com
+- WOPR v1.04
